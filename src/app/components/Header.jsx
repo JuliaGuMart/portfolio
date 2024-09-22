@@ -10,7 +10,7 @@ const Header = () =>{
             <div className="grid grid-cols-1 lg:grid-cols-12">
                 <div className="lg:col-span-5 place-self-center ml-10 lg:py-20 py-10">
                     <div className="relative shadow-md shadow-white rounded-full  bg-purple-400  lg:w-[500px] lg:h-[500px] w-[250px] h-[250px]">
-                        <Image src="/portfolio/public/images/icon.png" width={500} height={500} className=""></Image>
+                        <Image src="/portfolio/images/icon.png" width={500} height={500} className=""></Image>
                     </div>
                 </div>
                 <div className="lg:col-span-7 lg:px-24 lg:py-15 px-12 py-10 place-self-center">
