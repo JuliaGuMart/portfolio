@@ -9,7 +9,7 @@ const AboutMe = () => {
             <div className="text-black p-4 font-semibold">
                 Soy Julia, soy estudiante de Ingeniería informática en la Universidad de Vallladolid en España.<br/>
                 Estoy especializada en la mención de Ingeniería de software.<br/>
-                Realmemte disfruto programando y aprendiendo nuevos lenguajes ya sea en la Universidad o de forma autodidacta<br/>
+                Realmente disfruto programando y aprendiendo nuevos lenguajes ya sea en la Universidad o de forma autodidacta<br/>
                 Estoy interesada en usar y desarrollar mis habilidades así como ampliar mis conocimientos.<br/>
                 Me gusta trabajar en equipo, me parece una buena oportunidad de poner en común ideas y aprender de la experiencia de mis compañeros.<br/>
                 Estoy buscando una oportunidad para trabajar y crecer profesionalmente.<br/>
